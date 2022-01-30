@@ -1,0 +1,2 @@
+Algorithm trading project
+Quant
